@@ -25,7 +25,7 @@ I build digital products where **design clarity** meets **engineering rigor**. M
 
 ### `02` Currently
 
-- 🔭 Building **Eltis Process** — backend, frontend & infra
+- 🔭 Building full-stack web platforms — backend, frontend & infra
 - 🌱 Exploring AI-assisted engineering workflows (Claude Code) and Omarchy/Hyprland tooling
 - 🌐 Full portfolio & case studies → **[cheikh-portfolio-pi.vercel.app](https://cheikh-portfolio-pi.vercel.app)**
 
@@ -41,25 +41,23 @@ I build digital products where **design clarity** meets **engineering rigor**. M
 
 ### `04` GitHub Stats
 
+> Generated on a schedule by a GitHub Actions workflow in this repo — static SVGs, no third-party server dependency at request time.
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=imRYiUK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imRYiUK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages" height="165"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
 </p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imRYiUK&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imRYiUK&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity Graph" width="100%"/>
-</p>
-
 <br/>
 
-### `05` Trophies
+### `05` Contribution Snake
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=imRYiUK&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+  <img src="https://raw.githubusercontent.com/imRYiUK/imRYiUK/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </p>
 
 <br/>
