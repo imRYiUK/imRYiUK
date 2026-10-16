@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Cheikh Ahmed Tidiane Thiandoum's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 1666, Total PRs: 59, Total Issues: 5, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 1691, Total PRs: 59, Total Issues: 5, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 162.34420437898456;
+        stroke-dashoffset: 160.97398128598442;
       }
     }
   
