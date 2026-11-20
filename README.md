@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:152550,100:FF451A&height=200&section=header&text=Cheikh%20Ahmed%20Tidiane%20Thiandoum&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20turn%20ideas%20into%20products&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://cheikh-portfolio-pi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-cheikh--portfolio--pi.vercel.app-152550?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:imahmedtidiane@gmail.com"><img src="https://img.shields.io/badge/Email-imahmedtidiane%40gmail.com-FF451A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -27,7 +26,6 @@ I build digital products where **design clarity** meets **engineering rigor**. M
 
 - 🔭 Building full-stack web platforms — backend, frontend & infra
 - 🌱 Exploring AI-assisted engineering workflows (Claude Code) and Omarchy/Hyprland tooling
-- 🌐 Full portfolio & case studies → **[cheikh-portfolio-pi.vercel.app](https://cheikh-portfolio-pi.vercel.app)**
 
 <br/>
 
